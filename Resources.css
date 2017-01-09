@@ -1,9 +1,9 @@
-/* hr {
+hr {
   border-color: black;
-  border-width: 2px;
+  border-width: 1px;
   width: 430px;
-  float:left; */
-
+  float:left;
+}
 
 .Navbar {
 
@@ -15,15 +15,16 @@
     list-style-type: none;
     margin: 0;
     padding: 0;
-    padding-left: 100px;
+    padding-left: 185px;
     overflow: hidden;
+    font-family: Georgia, serif;
     /*border-bottom:1px solid black;
     length: 300px;*/
 }
 
 .list {
     float: left;
-    font-style:
+    font-family: Georgia, serif;
 }
 
 .list a {
@@ -33,6 +34,7 @@
     padding: 1px 18px;
     padding-bottom: 0px;
     text-decoration: none;
+    font-family: Georgia, serif;
 }
 
 /* Change the link color to #111 (black) on hover */
@@ -74,6 +76,7 @@ span.text-content {
   position: absolute;
   top: 0;
   width: 180px;
+  font-family: Georgia, serif;
 }
 
 span.text-content span {
