@@ -21,8 +21,8 @@ ul {
     padding: 0;
     padding-left: 185px;
     overflow: hidden;
-    /*border-bottom:1px solid black;
-    length: 300px;*/
+    border-bottom:1px solid black;
+    length: 300px;
 }
 
 li {
