@@ -145,6 +145,12 @@ padding-bottom:50px;
 
 }
 
+.misc a:hover{
+
+  color:red;
+
+}
+
 /*div {width:300px; overflow:hidden;}
 img {width:120px; float:left; display:inline; margin:15px;}
 img.middle {margin:15px 90px;}*/
