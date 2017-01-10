@@ -27,7 +27,6 @@ ul {
 
 li {
   
-    padding-left: 185px;
     float: left;
     font-style:
 }
@@ -40,7 +39,7 @@ li a {
     padding: 1px 18px;
     padding-bottom: 0px;
     text-decoration: none;
-    border-bottom:1px solid black;
+   /* border-bottom:1px solid black; */
     length: 300px;
 }
 
