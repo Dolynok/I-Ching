@@ -11,6 +11,16 @@ hr {
 
 }
 
+ul.menyu {
+
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  padding-left: 185px;
+  overflow: hidden;
+
+}
+
 .Nav {
     list-style-type: none;
     margin: 0;
