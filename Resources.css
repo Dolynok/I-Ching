@@ -27,7 +27,19 @@ hr {
     font-family: Georgia, serif;
 }
 
- .list a {
+li a.list{
+
+     font-family: Georgia;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 1px 18px;
+    padding-bottom: 0px;
+    text-decoration: none;
+  
+}
+
+/* .list a {
     display: block;
     color: black;
     text-align: center;
@@ -35,7 +47,7 @@ hr {
     padding-bottom: 0px;
     text-decoration: none;
     font-family: Georgia, serif;
-}
+} */
 
 /* Change the link color to #111 (black) on hover */
 .list a:hover {
