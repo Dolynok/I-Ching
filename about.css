@@ -54,6 +54,9 @@ li a:hover {
 
 }
 
+pre, code {
+    white-space: pre-line;
+}
 
 pre {
   
