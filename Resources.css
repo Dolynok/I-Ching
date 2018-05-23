@@ -48,7 +48,7 @@ li a.list{
     padding-right: 18px;
     padding-bottom: 0px;
     text-decoration: none;
-  
+
 }
 
 /* .list a {
@@ -75,9 +75,11 @@ ul.img-list {
 
 .img-list {
 
-float: left;
+align:center;
 
 }
+
+
 
 
 ul.img-list li {
@@ -163,7 +165,7 @@ padding-bottom:50px;
 
 .thirdrow {
 
-  text-align: left;
+  text-align: center;
   width: auto;
 
 
